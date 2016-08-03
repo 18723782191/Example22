@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><root version="3" length="" name="测试3" fmtid="-1" maxid="6" id="ddab2d9569f14a54bac0c79b130b48a7" fps="25">
+  <video>
+    <ref additional="1" clipid="0" begin="0" clipbegin="0" clipend="60000" cliptype="0" channel="0" format="0" transtype="0"></ref>
+    <ref additional="0" clipid="1" begin="60000" clipbegin="0" clipend="60000" cliptype="0" channel="0" format="0" transtype="0"></ref>
+  </video>
+  <audio></audio>
+  <physical>
+    <map id="0" fmtid="0" extfile="" clipfile="X:/vod/2016-08-01/7b67dcc9281e4f0eb9986b3f2ccea951/t1_��1��.mp4"></map>
+    <map id="1" fmtid="0" extfile="" clipfile="X:/vod/2016-08-01/7b67dcc9281e4f0eb9986b3f2ccea951/t1_��1��.mp4"></map>
+  </physical>
+  <extedlfile>x:/webtv/sedl/2016-08-02/ddab2d9569f14a54bac0c79b130b48a7/PefAction.mp</extedlfile>
+</root>
