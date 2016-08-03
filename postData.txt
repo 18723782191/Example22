@@ -1,0 +1,141 @@
+{
+    "ROOT": {
+        "WorkFlow": {
+            "piid": "554",
+            "title": "V50911-154237.mp4",
+            "import": [
+                1
+            ],
+            "uid": "2",
+            "username": "admin11"
+        },
+        "Data": {
+            "MediaFile": {
+                "GroupType": "V",
+                "MediaType": "S",
+                "FileName": "V50911-154237.mp4",
+                "InPoint": "0",
+                "OutPoint": "-1"
+            },
+            "TaskInfo": [
+                {
+                    "Scope": "Upload",
+                    "Data": {
+                        "TranscodeParam": {
+                            "platFormID": "5",
+                            "platFormName": "ÌåÓý",
+                            "joblist": "56",
+                            "title": "V50911-154237.mp4",
+                            "library": [
+                                1
+                            ],
+                            "uid": "2",
+                            "username": "admin11",
+                            "actionType": "add",
+                            "type": 1,
+                            "from_id": "554",
+                            "task_id": "56E23248-94BC-48A7-A4CA-25F8AC10921E"
+                        },
+                        "BaseInfo": [
+                            {
+                                "id": "128",
+                                "file_url": "\\video\\20160311\\20160807638877.mp4",
+                                "file_path": "X:/video/20160311/20160807638877.mp4",
+                                "duration": null,
+                                "file_name": "20160807638877.mp4"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "Scope": "Transcode",
+                    "Data": {
+                        "orderId1": "20",
+                        "workflow_id": "554",
+                        "type": "1",
+                        "sourceFrom": null,
+                        "username": "admin11",
+                        "uid": "2",
+                        "info": {
+                            "title": "yangmaohua",
+                            "catalogId": "-1",
+                            "programLength": "0",
+                            "guid": "56E2324894BC48A7A4CA25F8AC10921E",
+			    "columns":{"title":"ssss1008611"},
+                            "files": {
+                                "srcFile": {
+                                    "fileSize": "10991332",
+                                    "path": "/video/20160311/20160807638877.mp4",
+                                    "formatInfo": {
+                                        "FileFormat": "2103",
+                                        "VideoFormat": "37",
+                                        "BitRate": "3790786",
+                                        "FrameRate": "0.00",
+                                        "ImageWidth": "1280",
+                                        "ImageHeight": "720",
+                                        "KeyFrameRate": "30",
+                                        "AudioFormat": "1047",
+                                        "Channels": "1",
+                                        "SamplesPerSec": "32000",
+                                        "BitsPerSample": "16",
+                                        "Duration": "0",
+                                        "FileSize": "10991332"
+                                    }
+                                },
+                                "transcodeFiles": [
+                                    {
+                                        "islow": 1,
+                                        "fileSize": "2447700",
+                                        "path": "/video/vod/2016-03-11/56E23248-94BC-48A7-A4CA-25F8AC10921E/848_480.mp4",
+                                        "formatInfo": {
+                                            "FileFormat": "2103",
+                                            "VideoFormat": "37",
+                                            "BitRate": "802441",
+                                            "FrameRate": "25",
+                                            "ImageWidth": "848",
+                                            "ImageHeight": "480",
+                                            "KeyFrameRate": "25",
+                                            "AudioFormat": "1047",
+                                            "Channels": "1",
+                                            "SamplesPerSec": "48000",
+                                            "BitsPerSample": "16",
+                                            "Duration": "210000000",
+                                            "FileSize": "2447700"
+                                        }
+                                    }, 
+									{
+                                        "islow": 0,
+										"ishigh":"0",
+                                        "fileSize": "2447700",
+                                        "path": "/video/vod/2016-03-11/56E23248-94BC-48A7-A4CA-25F8AC10921E/848_480.mp4",
+                                        "formatInfo": {
+                                            "FileFormat": "2103",
+                                            "VideoFormat": "37",
+                                            "BitRate": "802441",
+                                            "FrameRate": "25",
+                                            "ImageWidth": "848",
+                                            "ImageHeight": "480",
+                                            "KeyFrameRate": "25",
+                                            "AudioFormat": "1047",
+                                            "Channels": "1",
+                                            "SamplesPerSec": "48000",
+                                            "BitsPerSample": "16",
+                                            "Duration": "210000000",
+                                            "FileSize": "2447700"
+                                        }
+                                    }
+									
+                                ],
+                                "keyFrames": [
+                                    {
+                                        "path": "/picture/image/2016-03-11/56E23248-94BC-48A7-A4CA-25F8AC10921E/640_480.jpg"
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}
